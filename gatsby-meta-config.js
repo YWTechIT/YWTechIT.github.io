@@ -1,12 +1,12 @@
 module.exports = {
   title: `Bee starter`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  author: `YWTechIT`,
+  introduction: `Hello! thank you for visit my blog`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    tistory: `https://ywtechit.tistory.com/`,
+    github: `https://github.com/YWTechIT`,
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -29,5 +29,4 @@ module.exports = {
   },
   ga: '0', // Add your google analytics tranking ID
   ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
-
 }
